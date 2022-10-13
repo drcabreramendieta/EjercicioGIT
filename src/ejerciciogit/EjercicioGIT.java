@@ -18,6 +18,7 @@ public class EjercicioGIT {
         System.out.println("Inicio del programa");
         System.out.println("Ejemplo de uso de GIT");
         System.out.println("La mejor herramienta para el control de versiones");
+        System.out.println("Este es el mensaje final");
     }
     
 }
