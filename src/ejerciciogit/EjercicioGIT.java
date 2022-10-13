@@ -15,6 +15,9 @@ public class EjercicioGIT {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Inicio del programa");
+        System.out.println("Ejemplo de uso de GIT");
+        System.out.println("La mejor herramienta para el control de versiones");
     }
     
 }
